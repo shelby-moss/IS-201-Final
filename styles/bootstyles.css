@@ -1,0 +1,59 @@
+.background {
+    background-image: url('../images/tableau.png');
+}
+
+.links {
+    float: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(158, 94, 94);
+}
+
+.figure {
+    font-weight:700px;
+    font-size: 24px;
+}
+
+h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+    font-weight: lighter;
+    font-size: 18px;
+    text-align: center;
+}
+
+h4 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(163, 99, 99);
+    font-size: 14px;
+    font-weight: lighter;
+}
+
+.header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(163, 99, 99);
+    text-align: center;
+    margin-right: 100px;
+    margin-left: 100px;
+    height: 50px
+    
+}
+
+.dash {
+    margin-right: 100px;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgb(187, 178, 178);
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.footer {
+    position:fixed;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    border: top 2px solid black;
+    padding: 3px;
+    text-align: center;
+    background-color: white;
+}

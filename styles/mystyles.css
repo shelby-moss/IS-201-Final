@@ -1,0 +1,64 @@
+/*change background of about me page*/
+.background1 {
+    background-image: url('../images/aboutme.jpg');
+}
+
+/*change background of resume page*/
+.background2 {
+    background-image: url('../images/resume2.jpg');
+}
+
+/*move in body margins*/
+body {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+/*change aspects of shaded header block*/
+.headerblock {
+    border: solid black 2px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    background-color: burlywood;
+}
+
+/*center anchors on page*/
+.anchors {
+    text-align: center;
+}
+
+/*change size of resume categories*/
+.resumehead {
+    font-size: 20px;
+}
+
+/*change image size on home page*/
+.resumeblock {
+    height: 300px;
+}
+
+/*change resume list*/
+ul {
+    font-size: 15px;
+    font-weight: lighter
+}
+
+/*change size and font of external links*/
+.a {
+    font-size: 15px;
+    font-family: monospace
+}
+
+/*change color of title name*/
+.name {
+    color:rgb(102, 77, 60);
+    font-size: 50px;
+    font-weight: lighter;
+}
+
+/*change contact info size*/
+.contact {
+    font-size: 15px;
+}
